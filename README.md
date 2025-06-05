@@ -24,6 +24,3 @@ This Android app helps users plan vacations by managing dates, excursions, and a
 2. Open in Android Studio
 3. Build and run on an emulator or physical device
 
-## License
-This project is licensed under the MIT License.
-

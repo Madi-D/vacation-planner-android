@@ -16,9 +16,6 @@ This Android app helps users plan vacations by managing dates, excursions, and a
 - Enable notifications/alerts for vacation dates
 - Local Room database with persistent data storage
 
-## Screenshots
-*(Insert screenshots here if desired)*
-
 ## How to Run
 1. Clone the repository
 2. Open in Android Studio
